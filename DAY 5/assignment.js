@@ -82,9 +82,12 @@
 
 
 
- let players =  ["playerA","playerB","playerC","playerD"];
- for(let player of players){
-    console.log(player);
- }
+//  let players =  ["playerA","playerB","playerC","playerD"];
+//  for(let player of players){
+//     console.log(player);
+//  }
+
+ 
+
 
  
